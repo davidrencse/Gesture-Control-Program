@@ -101,7 +101,3 @@ Rebuild using `--collect-all mediapipe` (already included in the build command a
 
 * Gesture classifier model and dataset format based on:
   kinivi/hand-gesture-recognition-mediapipe
-
-```
-::contentReference[oaicite:0]{index=0}
-```
