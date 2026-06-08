@@ -1,4 +1,4 @@
-```md
+
 # Gesture Control Program
 
 This project uses a webcam to detect your hand and trigger scroll macros:
